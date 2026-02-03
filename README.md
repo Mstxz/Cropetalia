@@ -1,5 +1,5 @@
-# Cropetalia
-
+<h1 style="color: rgb(228,229,170); background-color:rgb(176,145,194); text-align: center;">Cropetalia</h1>
+<img src="icon_bg.png" alt="Icon" width="100%">
 
 The RPG game
 
