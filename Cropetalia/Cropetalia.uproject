@@ -11,5 +11,10 @@
 				"Editor"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"VisionOS",
+		"Windows",
+		"Linux"
 	]
 }
