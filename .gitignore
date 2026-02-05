@@ -84,3 +84,7 @@ Saved/
 .vs/
 .vscode/
 *.sln
+
+# designs
+
+Design/*

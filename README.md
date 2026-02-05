@@ -1,7 +1,9 @@
 # Cropetalia
 <img src="Cropetalia/icon_bg.png" alt="Icon" width="100%">
 
-The RPG game
+The RPG, Farming Game
+
+You are a little wizard at the magical world, and you want to
 
 ## Tools 🛠️
 
